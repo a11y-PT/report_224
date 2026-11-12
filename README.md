@@ -3,8 +3,8 @@ website: "Portal myIHRU"          # Entre as aspas escreve o nome do website
 date: "13/10/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://pp-portalmyihru.ihru.pt/myIHRU"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://pp-portalmyihru.ihru.pt/myIHRU_Accessibility/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
-a11y_statement_date: "dd/mm/aaaa" # Data da declaração de acessibilidade
-owner: "Portal da Habitação"         # Entre as aspas escrever o nome do owner do website
+a11y_statement_date: "13/10/2026" # Data da declaração de acessibilidade
+owner: "Instituto da Habitação e da Reabilitação Urbana (IHRU) "         # Entre as aspas escrever o nome do owner do website
 seal: "Portal"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
 status: "Auditoria a decorrer" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
